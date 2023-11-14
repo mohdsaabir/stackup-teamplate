@@ -16,4 +16,4 @@ Library Name - Version
 ## How to configure
 Instructions for setting up project
 ## How to Run
-Instructions for running
+main is the branch  to run
